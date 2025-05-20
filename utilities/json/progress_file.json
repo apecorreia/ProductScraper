@@ -1,0 +1,21 @@
+{
+    "continente_categories_scraped": [],
+    "pingo_doce_categories_scraped": [],
+    "auchan_categories_scraped": [],
+    "activate_sellenium_to_get_categories_links": 1,
+    "database_url": "sqlite:///databases/products_2025-05-19_16-10-35.db",
+    "scraper_init_time": "",
+    "scraped_items": 0,
+    "total_categories": {
+        "continente": 0,
+        "pingo_doce": 0,
+        "auchan": 0
+    },
+    "scraped_categories": {
+        "continente": 0,
+        "pingo_doce": 0,
+        "auchan": 0
+    },
+    "auchan_categories_dict": {},
+    "continente_subcategories_scraped": {}
+}

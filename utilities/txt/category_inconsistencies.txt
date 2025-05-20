@@ -1,0 +1,1 @@
+All category-subcategory pairs are consistent!

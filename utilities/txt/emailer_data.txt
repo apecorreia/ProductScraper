@@ -1,0 +1,8 @@
+Scraper initialized at __date__ , __time__
+Run time: __run_time__
+
+FINAL STATS:
+
+||| Products scraped |||    __scrape_count__
+||| Products Saved   |||    __products_count__
+||| Teste ||| {valid}
