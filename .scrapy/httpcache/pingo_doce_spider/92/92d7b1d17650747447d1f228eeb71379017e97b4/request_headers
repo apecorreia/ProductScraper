@@ -1,0 +1,5 @@
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/346.1.704810410 Mobile/15E148 Safari/604.1
+Content-Type: application/json
+Accept-Language: en
+Accept-Encoding: gzip, deflate, zstd

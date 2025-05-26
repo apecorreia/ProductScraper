@@ -1,0 +1,27 @@
+:Status: 200
+Date: Sun, 27 Apr 2025 10:57:07 GMT
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=bqBJLFh1kctN1yDGfg1U1069V-VXgEV0KYI; Path=/; Secure; SameSite=None
+Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abTUaO7tx7IqUwTTE4T5qLjOXd; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Fri, 24 Oct 2025 10:57:07 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
+Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
+Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=ot3xKufjuPjFTT0L1lrmkILA7-PoFmxHoRiJhKaS5Y-a5Q2-ie-wECnxXghJkmuwDuus40Rs8pI5c6iY6s7iYA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: wTG9hYMNDmgBAAB_
+Referrer-Policy: no-referrer
+Permissions-Policy: default 'none'
+Content-Security-Policy: frame-ancestors 'self'
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: accept-encoding
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 936dcc153a45e3c0-LIS

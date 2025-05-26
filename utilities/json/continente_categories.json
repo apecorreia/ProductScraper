@@ -369,8 +369,8 @@
     ],
     "casa-bricolage-e-jardim": [
         {
-            "sub_category": "jardim",
-            "link": "https://www.continente.pt/casa-bricolage-e-jardim/jardim/"
+            "sub_category": "jardim-e-praia",
+            "link": "https://www.continente.pt/casa-bricolage-e-jardim/jardim-e-praia/"
         },
         {
             "sub_category": "mobiliario-e-colchoes",
@@ -457,6 +457,10 @@
         {
             "sub_category": "colecionaveis",
             "link": "https://www.continente.pt/brinquedos-e-jogos/colecionaveis/"
+        },
+        {
+            "sub_category": "consolas-e-jogos",
+            "link": "https://www.continente.pt/brinquedos-e-jogos/consolas-e-jogos/"
         },
         {
             "sub_category": "novidades",

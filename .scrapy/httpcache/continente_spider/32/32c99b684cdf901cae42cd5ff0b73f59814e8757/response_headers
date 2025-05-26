@@ -1,0 +1,17 @@
+:Status: 301
+Server: rhino-core-shield
+Date: Thu, 08 May 2025 12:02:35 GMT
+Content-Length: 0
+Accept-Ranges: bytes
+X-Dwsid-Samesite: None
+Location: https://www.continente.pt/desporto-roupa-e-viagem/mobilidade-eletrica-1/
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Set-Cookie: dwsid=KV15GBUhK0roB4DN1NOeC5cZpqhaaaNAWBhzvXeOeHBk-qb5x7houenv-TXcy2JzYLXgybsRjkYWiJXM_wU78w==; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: GCLB=COKN-JPuqoXjSRAD; path=/; HttpOnly
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Ray: 93c8cf193dd0d0ac-CDG
+Via: 1.1 google
+Alt-Svc: clear

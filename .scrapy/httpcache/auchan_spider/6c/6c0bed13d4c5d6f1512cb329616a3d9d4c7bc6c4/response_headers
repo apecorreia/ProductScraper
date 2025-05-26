@@ -1,0 +1,26 @@
+:Status: 200
+Date: Tue, 20 May 2025 11:51:18 GMT
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=ArLsmLbDgiEu95YIAxXjDiBO1Sk1irc2Iyo; Path=/; Secure; SameSite=None
+Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acBWeMEaEGZVCV5QSw15vU3Rdh; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Sun, 16 Nov 2025 11:51:17 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=aszpnwMKZPrWaBuGg-sJfUgw0C6AQ1Ht27UrpzsRqMiWulDKIO3b0Xi8ZZLylmLEZCJ6lEu2EPmiK1VlIBy8mw==; path=/; HttpOnly; Secure; SameSite=None
+X-Content-Type-Options: nosniff
+Permissions-Policy: default 'none'
+X-Dw-Request-Base-Id: 66lmZa9mLGgBAAB_
+Referrer-Policy: no-referrer
+X-Robots-Tag: noindex
+Content-Security-Policy: frame-ancestors 'self'
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: accept-encoding
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/csp-reporting.cloudflare.com\/cdn-cgi\/script_monitor\/report?m=SPaiBz3W64pGZ2yFke2pouvBbX2em5T1FEwOg3KOjPs-1747741878-1.0.1.1-A9DA3Qlpu0KF_djrETJ8VO7Gpw.9OrLONB.JO6nO0DS6rW07KPzyBk2ac6Ck0Cs0mUQ5hmnEE7fjAgC5LNGewymrtBEJDhHxqZnmh81Mi01mqfPY6dKii3SSMQ3ri5iWuGMK5.89qGqkerCxW6Zeiw"}],"group":"cf-csp-endpoint","max_age":86400}
+Content-Security-Policy-Report-Only: script-src 'none'; connect-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=SPaiBz3W64pGZ2yFke2pouvBbX2em5T1FEwOg3KOjPs-1747741878-1.0.1.1-A9DA3Qlpu0KF_djrETJ8VO7Gpw.9OrLONB.JO6nO0DS6rW07KPzyBk2ac6Ck0Cs0mUQ5hmnEE7fjAgC5LNGewymrtBEJDhHxqZnmh81Mi01mqfPY6dKii3SSMQ3ri5iWuGMK5.89qGqkerCxW6Zeiw; report-to cf-csp-endpoint
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 942b9f11cf3ba10f-LIS

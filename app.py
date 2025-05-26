@@ -3,11 +3,14 @@
 Yields:
     CrawlerProcess: crawl spider
 """
+import os
 import logging
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
 #from scrapy.signals import spider_closed
 from twisted.internet import defer
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 class SpiderRunner:
     """

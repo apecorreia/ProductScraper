@@ -1,0 +1,14 @@
+:Status: 301
+Date: Sat, 24 May 2025 16:54:42 GMT
+Content-Length: 0
+Location: https://auchan.dreambooks.pt/
+Accept-Ranges: bytes
+X-Dwsid-Samesite: None
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Set-Cookie: dwsid=K5oyZNPAsj86O0Nm_CLsVQCfqLF9Ug81yxcA6yagBbpk7yAWoqo7VktwkDyni914hy3VzrXPBCHo1hlhaK5RYw==; path=/; HttpOnly; Secure; SameSite=None
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 944e51055b43950a-LIS

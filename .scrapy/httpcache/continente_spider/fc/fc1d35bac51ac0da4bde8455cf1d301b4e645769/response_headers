@@ -1,0 +1,27 @@
+:Status: 200
+Server: rhino-core-shield
+Date: Tue, 29 Apr 2025 14:38:32 GMT
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=ljSfV_njjAlyeJ285NChmNYn8BAne4cUOhg%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=bdgQ753bFuoGKahpAZRtOIq8hO; Path=/; Secure; SameSite=None
+Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=bdgQ753bFuoGKahpAZRtOIq8hO; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Sun, 26 Oct 2025 14:38:28 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=ljSfV_njjAlyeJ285NChmNYn8BAne4cUOhg; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=R1KulqAsyqlqAVIikzAs1gdBwdF-tMG0ImFV1qSGqOOz5cKcbwlScgBb02gJfsNnljZFbWe7UjMLFZ0Qb1EltQ==; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: GCLB=COSQ-NSqp8CcogEQAw; path=/; HttpOnly
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
+X-Dw-Request-Base-Id: uzPzQybOEGgBAAB_
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: accept-encoding
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Ray: 937f8b154ebb02b1-CDG
+Via: 1.1 google
+Alt-Svc: clear

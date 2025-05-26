@@ -1,8 +1,7 @@
-databases
 *.sqlite3
 *.pyc
 __pycache__/
-.scrapy
 scraper/logs/*.txt
 .venv
-*.log
+*.db
+test.py

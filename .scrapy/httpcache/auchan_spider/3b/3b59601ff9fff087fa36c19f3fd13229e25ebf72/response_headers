@@ -1,0 +1,26 @@
+:Status: 200
+Date: Tue, 20 May 2025 11:44:27 GMT
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=9dmyQMOxPRG_JPrqQpP2vn8ZlyW5bExX8C8; Path=/; Secure; SameSite=None
+Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abSEhrSh1oXbThNaSq2NKVdIy8; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Sun, 16 Nov 2025 11:44:27 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=XwJRE1jVnUWLiM3H3aCru9XCdHYiCOwDxIMuIYyajh13U152nOpKYBQL-tZIMImn2RF4ZfI4SPj2fRrsve4fbQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Content-Type-Options: nosniff
+Permissions-Policy: default 'none'
+X-Dw-Request-Base-Id: 66lWkgleLGgBAAB_
+Referrer-Policy: no-referrer
+X-Robots-Tag: noindex
+Content-Security-Policy: frame-ancestors 'self'
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: accept-encoding
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/csp-reporting.cloudflare.com\/cdn-cgi\/script_monitor\/report?m=BReU2tMWbXIbJseNukYDy7MuIRiTTeuhvuuFO0UZGbk-1747741467-1.0.1.1-23sSIDu4cjKyU9Z9ruJL4HWKnnIhV02JVMStwndez0olJU.ZQa26ce8REpu3.nm5A7f5HeyDcFgH9mfaWT2ivYK49gVpDyPUIn0L6eEOP8JX1glDccF_xU7eoCPBeYQ7zWBVFntBRyPW9movT895yg"}],"group":"cf-csp-endpoint","max_age":86400}
+Content-Security-Policy-Report-Only: script-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=BReU2tMWbXIbJseNukYDy7MuIRiTTeuhvuuFO0UZGbk-1747741467-1.0.1.1-23sSIDu4cjKyU9Z9ruJL4HWKnnIhV02JVMStwndez0olJU.ZQa26ce8REpu3.nm5A7f5HeyDcFgH9mfaWT2ivYK49gVpDyPUIn0L6eEOP8JX1glDccF_xU7eoCPBeYQ7zWBVFntBRyPW9movT895yg; report-to cf-csp-endpoint
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 942b950c0c806920-LIS

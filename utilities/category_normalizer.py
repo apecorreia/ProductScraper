@@ -145,7 +145,7 @@ class CategoryNormalizer:
                         f.write("- ID | Name | Price\n")
                         for _, product in matching_rows.iterrows():
                             name = (product['name'][:47] + "...") if len(product['name']) > 50 else product['name']
-                            f.write(f"- {product['id']} | {name} | {product['primary_price']}\n")
+                            f.write(f"- {product['id']} | {name} | {product['primaryPrice']}\n")
 
                         # Suggest possible correct categories
                         possible = [

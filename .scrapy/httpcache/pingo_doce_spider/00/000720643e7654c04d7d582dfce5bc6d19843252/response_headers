@@ -1,0 +1,19 @@
+:Status: 200
+Date: Sat, 24 May 2025 16:53:14 GMT
+Content-Type: application/json; charset=utf-8
+Server: nginx/1.21.6
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=0; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Etag: W/"45a06-M1S5D6gwiNQnfnNq5A53zQ33TW4"
+Content-Encoding: gzip
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: camera=(), microphone=(), geolocation=()

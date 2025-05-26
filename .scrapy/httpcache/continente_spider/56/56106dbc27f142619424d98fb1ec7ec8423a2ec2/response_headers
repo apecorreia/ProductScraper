@@ -1,0 +1,24 @@
+:Status: 200
+Server: nginx
+Date: Sat, 24 May 2025 16:49:24 GMT
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=V3qG8R2nCS5vNnKDYM0KVDh0aYCx4udfAwM%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=ab3g2V3UDazIO67zkUVI8pvOKh; Path=/; Secure; SameSite=None
+Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=ab3g2V3UDazIO67zkUVI8pvOKh; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Thu, 20 Nov 2025 16:49:24 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=V3qG8R2nCS5vNnKDYM0KVDh0aYCx4udfAwM; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=6uhKE16d_t2aZBnBk5wyuYXmpWLy2BCs9lFOkngNKWrdDz5eG8da2MmQs_YrUDKDaPvh-FFxfhl2yC1k7ddd9g==; path=/; HttpOnly; Secure; SameSite=None
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
+X-Dw-Request-Base-Id: F5mfVnj4MWgBAAB_
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: accept-encoding
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Ray: 944e49428b68c0eb-FRA
+X-L11-Trace: ffm14-lb2
+X-Proxy-Cache: MISS

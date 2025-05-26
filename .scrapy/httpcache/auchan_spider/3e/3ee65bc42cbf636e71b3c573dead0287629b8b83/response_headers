@@ -1,0 +1,29 @@
+:Status: 200
+Date: Sun, 27 Apr 2025 12:17:31 GMT
+Content-Type: text/html;charset=UTF-8
+Accept-Ranges: bytes
+Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=_qD6xAPKewBMoS76RYQrT00z-ZBUVP1mrJA; Path=/; Secure; SameSite=None
+Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=adtgdDCczMucQOPDKbmqCGao47; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Fri, 24 Oct 2025 12:17:30 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
+Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
+Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=6rgQCHjHzGE19BG67ryiglkrE1wvWUoH1cUYFoI9IaTo_eLuMdRUTLvp7MgjCfk9VhPOxTq-vLbFgkGQMSUzBg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: wTG9_1ogDmgBAAB_
+Referrer-Policy: no-referrer
+Permissions-Policy: default 'none'
+Content-Security-Policy: frame-ancestors 'self'
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Vary: accept-encoding
+Content-Encoding: gzip
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/csp-reporting.cloudflare.com\/cdn-cgi\/script_monitor\/report?m=KMxUc_bULyzLIlhGnse9v6mwBKFSNNyAkYOwfV_kmKU-1745756251-1.0.1.1-.oRieDDZfxE9.iBrcTxaW4yQ8.XEzGSk8U7HVMVyJA7yCl_8abUtQNrnnK3_m.2FXOSC1lTQ0O2jcFK0hriJZI2B_C19EkUFSU4BiJWs9KSy4iZ0izemCfOdXoQtZi3FBj6qF.4BLjQXf5rvf2.wDg"}],"group":"cf-csp-endpoint","max_age":86400}
+Content-Security-Policy-Report-Only: script-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=KMxUc_bULyzLIlhGnse9v6mwBKFSNNyAkYOwfV_kmKU-1745756251-1.0.1.1-.oRieDDZfxE9.iBrcTxaW4yQ8.XEzGSk8U7HVMVyJA7yCl_8abUtQNrnnK3_m.2FXOSC1lTQ0O2jcFK0hriJZI2B_C19EkUFSU4BiJWs9KSy4iZ0izemCfOdXoQtZi3FBj6qF.4BLjQXf5rvf2.wDg; report-to cf-csp-endpoint
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+Cf-Ray: 936e41d88ccbe3b8-LIS

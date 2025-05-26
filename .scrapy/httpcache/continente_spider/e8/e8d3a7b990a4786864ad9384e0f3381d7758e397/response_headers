@@ -1,0 +1,17 @@
+:Status: 301
+Server: rhino-core-shield
+Date: Thu, 08 May 2025 12:02:34 GMT
+Content-Length: 0
+Accept-Ranges: bytes
+X-Dwsid-Samesite: None
+Location: https://www.continente.pt/desporto-roupa-e-viagem/malas-e-acessorios-de-viagem-2/
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Set-Cookie: dwsid=GkHnbv0yLyEhHewWnCpXYkR8VP-epRb2Z0fP04z2IgeHwlGDLDi-YlTQxGv2ijlWtq0a1OhWwz5mtMpKLGDJpQ==; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: GCLB=CKfnorrri7mxowEQAw; path=/; HttpOnly
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Ray: 93c8cf173ff7c9c2-CDG
+Via: 1.1 google
+Alt-Svc: clear

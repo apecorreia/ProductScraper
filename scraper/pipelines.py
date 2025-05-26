@@ -5,9 +5,7 @@
 import re
 import os
 from datetime import datetime
-from collections import defaultdict
 import logging
-import numpy as np
 from itemadapter import ItemAdapter
 import pandas as pd
 from tqdm.auto import tqdm
@@ -21,6 +19,7 @@ from scraper.spiders.spiders_progress import Progress
 from utilities.qnt_brand_extraction import AuchanQuantityBrandExtractor, standardize_quantity
 from utilities.category_normalizer import CategoryNormalizer
 from utilities.db_manager import DBManager
+from utilities.data_manager import DataManager
 
 class ProductScraperPipeline:
     """
@@ -161,7 +160,7 @@ class SaveToDatabase:
 
         # In the cases where the database url is invalid or empty, creates a new one
         else:
-            timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+            timestamp = datetime.now().strftime("%Y-%m-%d")
             new_data_base_path = f'sqlite:///databases/products_{timestamp}.db'
             self.create_new_database(new_data_base_path) # Create new database
             #new_data_base_path = self.create_new_postgres_database()
@@ -421,6 +420,12 @@ class PostDatabaseProcessorPipeline:
                 
                 # Push updates to DB
                 self._update_database_from_df(df, db_url)
+                
+                # Clean and save wproducts for SmartList Operations
+                data_manager = DataManager(df)
+                data_manager.preprocess_all_product_names()
+                data_manager.save_cleaned_csv("utilities/csv/products_cleaned.csv")
+                
                 
                 with dbch('sqlite:///databases/registry.db') as register_db:
                     register_attrs = self.get_register_attrs(db_url)
