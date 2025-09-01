@@ -1,6 +1,6 @@
 # 🛠️ ProductScraper 
 
-![https://img.shields.io/badge/License-MIT-yellow.svg](./LICENSE)
+![(https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 **ProductScraper** is a scalable web scraping framework designed to collect, clean, and store product data from multiple Portuguese supermarkets (e.g., **Continente, Pingo Doce, Auchan**).  
 It powers downstream applications like **SmartCart**, enabling real-time price comparison and optimized shopping lists.
@@ -102,11 +102,12 @@ ProductScraper/
     ```bash
     DATABASE_URL = "postgresql://user:password@localhost:5432/product_scraper"
     ```
-  ### or SQLite example:
+    ### or SQLite example:
   
-  ```bash
+    ```bash
     DATABASE_URL = "sqlite:///path_to_db/database.db"
-  ```
+    ```
+    
 ---
 
 ## ▶️ USAGE
