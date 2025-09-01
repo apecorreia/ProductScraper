@@ -92,37 +92,37 @@ ProductScraper/
    ```
 
 2. Create a virtual environment and install dependencies:
-  ```bash
-  python -m venv venv
-  source venv/bin/activate   # On Windows: venv\Scripts\activate
-  pip install -r requirements.txt
-  ```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate   # On Windows: venv\Scripts\activate
+    pip install -r requirements.txt
+    ```
 
 4. Configure database (PostgreSQL or SQLite) in settings.py:
-  ```bash
-  DATABASE_URL = "postgresql://user:password@localhost:5432/product_scraper"
-  ```
+    ```bash
+    DATABASE_URL = "postgresql://user:password@localhost:5432/product_scraper"
+    ```
   ### or SQLite example:
 
-  ```bash
-  DATABASE_URL = "sqlite:///path_to_db/database.db"
-  ```
+    ```bash
+    DATABASE_URL = "sqlite:///path_to_db/database.db"
+    ```
 ---
 
 ## ▶️ USAGE
 - Run a specific spider:
-  ```bash
-  scrapy crawl continente_spider
-  scrapy crawl pingo_doce_spider
-  scrapy crawl auchan_spider
-  ```
+    ```bash
+    scrapy crawl continente_spider
+    scrapy crawl pingo_doce_spider
+    scrapy crawl auchan_spider
+    ```
 
   ### OR
 
 - Run all spiders at once
-  ```bash
-  python app.py
-  ```
+    ```bash
+    python app.py
+    ```
 
 ### 📊 Example Output
 | id | store       | category  | sub_category   | name               | brand | quantity | primary_price | secondary_price | img_lnk                                                        |
@@ -141,5 +141,5 @@ This can be adjusted in settings.py, but increasing it too much may result in IP
 👨‍💻 Author
 
 Developed by António Correia
-📩 Contact: [Linkedin](https://www.linkedin.com/in/antónio-correia-4013242b7)
+📩 Contact: [Linkedin Profile](https://www.linkedin.com/in/antónio-correia-4013242b7)
  • Email: antoniocorreia0708@gmail.com
