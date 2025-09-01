@@ -1,6 +1,6 @@
 # 🛠️ ProductScraper 
 
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)[LICENSE](./LICENSE)
+![MIT License](./LICENSE)
 
 **ProductScraper** is a scalable web scraping framework designed to collect, clean, and store product data from multiple Portuguese supermarkets (e.g., **Continente, Pingo Doce, Auchan**).  
 It powers downstream applications like **SmartCart**, enabling real-time price comparison and optimized shopping lists.
