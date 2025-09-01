@@ -38,7 +38,8 @@ class Progress:
         },
 
     "auchan_categories_dict" : {},
-    "continente_subcategories_scraped":{}
+    "continente_subcategories_scraped":{},
+    "pingo_doce_subcategories_scraped" : {}
     }
 
     def create_progress_file(self):

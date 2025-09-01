@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:27:04 GMT
+Date: Fri, 29 Aug 2025 11:27:45 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb3671daacef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=roCm0jJYSKZdjlFED3L8vzprAvJkNEDynq4; Path=/; Secure; SameSite=None
+Set-Cookie: sid=IrbTFaYXYDvJQgT4ldyZ0n4NQsh0N3pyQa4; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bcBEcn3uZ7asOMV4SDRamGJ7Y9; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:27:04 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abvjUANjaQoz3xFxkIYCOC2yqA; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:27:43 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=fXLN-tiZTiYHd5lTwkvJNumZadqO9UZyxFc2ecukiiiYmAF-6FJw-zHriKfPupcdLHZQWVoHS3M_5AHWgbYrkg==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kR00hCL2gBAAB_
+Set-Cookie: dwsid=tkbddpgY3ajj5wJbomTszer9TKtKOMfhawskYu9LULX_e3AFgr2lTp9c3dT04xd7lY7GuqOLmvPbJAMMgkzCBA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Nrwea-OsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d55e30c7294fb-LIS

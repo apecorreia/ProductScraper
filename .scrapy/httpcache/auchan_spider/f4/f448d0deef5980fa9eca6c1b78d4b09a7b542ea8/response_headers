@@ -1,18 +1,23 @@
 :Status: 200
-Date: Tue, 20 May 2025 11:38:16 GMT
+Date: Fri, 29 Aug 2025 11:25:18 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bafd19f68cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=QVFPT_XCb4e65Q3QkswqGdl8-OciM35sym8; Path=/; Secure; SameSite=None
+Set-Cookie: sid=pTUDy9IAM-uVVREwjjCcHmkH9LABsiZPRto; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abENWQQXUtTKwvwS3769EZwyab; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Sun, 16 Nov 2025 11:38:15 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=gDfMWG4Hr4wnyr82gcT_PRgae_C59r5nV0AVcTLxVGJ0INyUCgdW7Z-MyjD0vPGaqtffeqPkLjc8JlF7cDYSVw==; path=/; HttpOnly; Secure; SameSite=None
-X-Content-Type-Options: nosniff
-Permissions-Policy: default 'none'
-X-Dw-Request-Base-Id: 66mlcRVcLGgBAAB_
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abUA9H25UOHtdmT0VKcddPwyjm; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:25:16 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
+Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
+Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=SsFe-JWQUFP3rnXsx0PSr4bzqYNGIkX3JCE5Fs0KLPLZt_A_Aesm9l8ZPRIcVkbd1iu0qNaDxle07njy7kInnw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NoNIhyOsWgBAAB_
+Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
-Content-Security-Policy: frame-ancestors 'self'
+Permissions-Policy: default 'none'
+X-Content-Type-Options: nosniff
 Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 Expires: Thu, 01 Dec 1994 16:00:00 GMT
@@ -21,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 942b8bfa6d286920-LIS

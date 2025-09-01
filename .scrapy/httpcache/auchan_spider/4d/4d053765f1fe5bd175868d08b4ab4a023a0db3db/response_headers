@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:24:18 GMT
+Date: Fri, 29 Aug 2025 11:24:33 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976baec2faf2cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=Hsu2uSbABhlLXvQJLocn9MmywHS_eNrQzuE; Path=/; Secure; SameSite=None
+Set-Cookie: sid=Bbsx0YGaF3WnjJovrbm0UJ_PCC5ekGq_2Y4; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abiJ1PU0xzS5wehjjacvV16xOI; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:24:18 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ac5gGaQJ15WSkJalqLiKvoQaKh; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:24:32 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=ThfSSzxqMbjMh76diCC1GZlupIal0u1xSThbbPtqqJpebjGEuVCMClevX2a0YsdR6MXVXfB7b2ne-6bV8UHlJA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66nkkKJBL2gBAAB_
+Set-Cookie: dwsid=U8WIcNq_aeD34PMN-TxXtcmxsY8FtRQqieLn3A7x9WqU9NfJ2zF4xUILiQ357nTLxnB-cZAeO-MRd7cgoQA8fw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Np9CPCNsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d51d5cc8994fb-LIS

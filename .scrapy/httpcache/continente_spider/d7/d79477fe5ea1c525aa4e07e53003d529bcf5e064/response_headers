@@ -1,19 +1,20 @@
 :Status: 200
 Server: nginx
-Date: Thu, 22 May 2025 15:34:32 GMT
+Date: Fri, 29 Aug 2025 11:49:59 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bd407ee46d3c0-FRA
 Accept-Ranges: bytes
-Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=xh9qNSbsYKGINMMCSfIemOtkzrg_kZIOKfw%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
-Set-Cookie: cqcid=ab8sQ9tXTTulKbgotKJ9iqKfuE; Path=/; Secure; SameSite=None
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=L1aaNhxkHIZ6hFzBRfTd6_u6NdPpMGqlldQ%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=abobtjVkVvcaTvkzmjIozDF5iJ; Path=/; Secure; SameSite=None
 Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=ab8sQ9tXTTulKbgotKJ9iqKfuE; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:34:31 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=xh9qNSbsYKGINMMCSfIemOtkzrg_kZIOKfw; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=abobtjVkVvcaTvkzmjIozDF5iJ; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:49:59 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=L1aaNhxkHIZ6hFzBRfTd6_u6NdPpMGqlldQ; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=XXq79MbVyUd1HhQO5Jy36HABH3nfqDvo1NZRZ9EzHxpAHPS_244f1tDFaSB6VVK_ey_z8bz6uCGFlWfUGC5bfg==; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: dwsid=dWyJTvtPkp711DRQCk2zDqGAJqsOG-S9GoSagDuff4PqyawzN-PvgXeQcIeh0yQSexNf6onQPVHKl24TyTG1TA==; path=/; HttpOnly; Secure; SameSite=None
 X-Content-Type-Options: nosniff
 Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
-X-Dw-Request-Base-Id: ChBte1g9L2gBAAB_
+X-Dw-Request-Base-Id: havRhL2OsWgBAAB_
 Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 Expires: Thu, 01 Dec 1994 16:00:00 GMT
@@ -21,6 +22,5 @@ Vary: accept-encoding
 Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains
-Cf-Ray: 943d60d0fe77dbad-FRA
 X-L11-Trace: ffm14-lb2
 X-Proxy-Cache: MISS

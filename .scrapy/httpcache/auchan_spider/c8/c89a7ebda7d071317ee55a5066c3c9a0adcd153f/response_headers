@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:40:25 GMT
+Date: Fri, 29 Aug 2025 11:56:43 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bddd65eadd92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=FBZIhnweSGIp4fRk0NqPbAes7RzLLB1BrVw; Path=/; Secure; SameSite=None
+Set-Cookie: sid=09ZjfH0n9r5ZjQjHfNef0hw5EKaVQl0Nrio; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ablvhWMYaNCbLvWkqTSS3iIGcz; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:40:24 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ab8E8KbALPxDPczIeDbg0PRwyy; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:56:41 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=-7XhyLy_gB8J_1xqZpwtw-gPRFILjdU8jUL4mze9RS3vej9ygNFmcLxys-xCRNxl2wMlNrrPnOISq6lygCABOg==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66mcAmhFL2gBAAB_
+Set-Cookie: dwsid=quaOMO4b8BYUGXAf7szyTGUJ_eoGflul474KVBysct5NYvI99lQYO4WSqwastFtggcXpHHHXFcj3j9ksDbhokw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Np7P3mVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d696fab6c6932-LIS

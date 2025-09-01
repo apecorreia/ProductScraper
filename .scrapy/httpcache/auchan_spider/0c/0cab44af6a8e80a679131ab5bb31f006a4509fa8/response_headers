@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:25:23 GMT
+Date: Fri, 29 Aug 2025 11:25:32 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb0351ec4cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=KVqDJhQ6GIo7P3w5Tv5xmxjgwGBRzUWuIXA; Path=/; Secure; SameSite=None
+Set-Cookie: sid=ztAso4utKtwln6TA1akfs3cvQKwGX-d3BMI; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abnfoUMI8pAULzbHXdHqGxf3ld; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:25:20 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acwN66Cfzi0KabsHZ04edJBZQB; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:25:32 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=Jj6f_mz4ZT8ZzxLvUy7gHheE3LgpDzgbA4DwTA0Zuj1dw5X7bI_lwbMi8e9fcni4yzyJ1S_HPBNZD4xhf6udWA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kjqOBBL2gBAAB_
+Set-Cookie: dwsid=2EwrMjLVj_cVREjzsMR0oGGzRz2_J0JcNBmMMZNulpJ9-DofEOO4kTR-ryyCulHKToyxNFn8EE84-mQJCQLJEQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Nq7KiyOsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d535e09a294fb-LIS

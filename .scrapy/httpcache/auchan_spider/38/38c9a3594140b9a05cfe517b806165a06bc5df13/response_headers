@@ -1,17 +1,18 @@
 :Status: 200
-Date: Tue, 20 May 2025 11:52:14 GMT
+Date: Fri, 29 Aug 2025 11:57:24 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bded51b5ad92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=qkYHExOISnJlcKuLHrgK0dpr48q2nmRnlnA; Path=/; Secure; SameSite=None
+Set-Cookie: sid=dfg9qUWQCGRt7LNS0nb7NForkrdWqz-Mo_0; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=adsaEpFLboIelKSP5ebtLY4ChW; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Sun, 16 Nov 2025 11:52:13 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ab6koUbcq68mzLVhO6R8n374dh; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:57:21 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=vUOt9NTT4fLb_pMuwwBy6c1uSS1xxc_nKP4LxJjj9LXCO_LMzKZ-qQrYpVxP8WD6OQt03O0RpJyYslXHpUIlwA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66n-4e1sLGgBAAB_
+Set-Cookie: dwsid=czV6R_KQHmMmIrGY_DAbG1zm1VnhqymL6DNaOGV-HdsXDsGNz7swUOKnvra1JvZKB4LqYJuwdTdqaFtSNFdA-A==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NoAWKGVsWgBAAB_
 Referrer-Policy: no-referrer
 Permissions-Policy: default 'none'
 Content-Security-Policy: frame-ancestors 'self'
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 942ba0708f39a10f-LIS

@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:31:05 GMT
+Date: Fri, 29 Aug 2025 11:35:02 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bbe11e804cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=qjS3tqkWZnF71axMp03iHXE4W0K-DZlG9Qc; Path=/; Secure; SameSite=None
+Set-Cookie: sid=D9jPH3xSehdZB5jl7NPFMCIIZMnO9syybGk; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acJLztEZ8775jW5wGbaGAE87y1; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:31:05 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abBI0TmjSNmQaNPMYkDDbw693A; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:35:00 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=DOLLakDeZnPy7VrB8yPinNfuJ55XxZlEfD8lNVtzMZJJ88MZpiAVJ3vhcZ4roLEfQLWgFbumWGrkm703v8Fkpw==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66noNDlDL2gBAAB_
+Set-Cookie: dwsid=X-0rufBvYvXhJC_s_g4peXI9gG9Cy9RQ1Ep9MSIyWcS3B7ygYL1UtnH6s24x6Xv658mN76iyXzfwYtWsGowQDA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NohmGOQsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d5bc73ee094fb-LIS

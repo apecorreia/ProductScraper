@@ -2,6 +2,13 @@
 *.pyc
 __pycache__/
 scraper/logs/*.txt
+utilities/txt/*.txt
+utilities/csv/*.csv
 .venv
 *.db
 test.py
+utilities\json\progress_file.json
+spider_run.log
+.scrapy
+.vscode
+.gitignore

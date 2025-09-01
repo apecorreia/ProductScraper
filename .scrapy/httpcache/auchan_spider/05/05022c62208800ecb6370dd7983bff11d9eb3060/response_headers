@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:27:11 GMT
+Date: Fri, 29 Aug 2025 11:56:36 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdda6d858d92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=IlFFsXzEEOJ9vg0AvqE6DcQaSLmo_CHzwFc; Path=/; Secure; SameSite=None
+Set-Cookie: sid=RyZEqgr4O6Zo4qd2Btl4XthvWE_JFQ7gWro; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acmNF4YiNejQldZHmkFzulZoaA; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:27:09 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=adMJk4ba7sA0QLh17dnaEOrYrr; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:56:33 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=34VWEeymQ474p6zMCnTZbTnOWxk4nnKfRU6gePx9QayvyVH9QsVhzaeQszbDmUHaOYc7EDxYK_TI3d0fUeEZVA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66nK1E1CL2gBAAB_
+Set-Cookie: dwsid=Ymdkt5YOosZedEAXd0xvyv0ueFJV45eAbCwTECuuexf8KDpT766pmeztHKcSWFRRixt4sf2Q5kOhEiqAlZ_tIw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NroOnGVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d5603cbde94fb-LIS

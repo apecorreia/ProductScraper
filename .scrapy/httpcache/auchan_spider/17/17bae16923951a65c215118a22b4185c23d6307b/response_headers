@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:25:07 GMT
+Date: Fri, 29 Aug 2025 11:25:29 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb021cdcacef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=oqerJkxoLWRZkwqO3QBTVSr4euF1yPO5HoQ; Path=/; Secure; SameSite=None
+Set-Cookie: sid=0LsotEChp7BZq10GsKVgq_1al6P-OZajH9o; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=cdFkMifIaH4QpKfdbnK4KCICnM; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:25:06 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abVpVM5SgHuBj1Dn8M8LvkpkCB; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:25:29 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=9DTavuziYjQWZuBz_dohfXxrC3nVQrzpUXFkH1rNvfShTwDhDaU7K6ktp9NldX_qfpFZGI0xEao_zq1nFERKqw==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kwo9JBL2gBAAB_
+Set-Cookie: dwsid=UavJcUJC_TjzrEq1SK4el3xKdmb82swrtd2QXKJjMu_hF2wi7xeI57tSV9GNjwDwbQ1fJWej3bVJkf2jFPv4Tw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NomKSmOsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d5305acf194fb-LIS

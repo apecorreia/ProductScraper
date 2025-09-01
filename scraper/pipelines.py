@@ -288,7 +288,7 @@ class SaveToDatabase:
                         
                         # Skip if primary price is zero
                         if primary_price == 0.0 or secondary_price == 0.0:
-                            print(f"Skipping product: {item['name']}")
+                            print(f"Skipping product: {item}")
                             with open("utilities/txt/skiped_products.txt", 'a', encoding='utf-8') as file:
                                 file.write(f"{item['store']} || {item['name']} \n")
                             continue
@@ -377,7 +377,8 @@ class PostDatabaseProcessorPipeline:
                     "id", "storeId", "category", "sub_category", "name",
                     "brand", "quantity", "quantity_value", "quantity_unit",
                     "quantity_items", "quantity_total", "primaryPrice",
-                    "primaryPriceUnit", "secondaryPrice", "secondaryPriceUnit"
+                    "primaryPriceUnit", "secondaryPrice", "secondaryPriceUnit",
+                    "image"
                 ])
 
                 # Create and save DataFrame

@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:25:52 GMT
+Date: Fri, 29 Aug 2025 11:26:17 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb1431ccfcef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=WwGLlzssVvGD6bT77jbPar5ziDq4rcs2yg8; Path=/; Secure; SameSite=None
+Set-Cookie: sid=_SQPSUOgaF8N5RWlLuiX9dmkm_sSg5ZFhx4; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abkpsOrYz9Eexbk7aq6XNhyUkN; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:25:49 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bdfbpDHXM8aqf5cpKOj8Mf3AlD; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:26:15 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=BHu8h7E49WYIkrDvouJHMOEJvyoyuWihQXTVrbku71yc6y9mkMePV1Fp3dfBcJgO--cleLkYHYbIIcIBiSb-1w==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66n-s_1BL2gBAAB_
+Set-Cookie: dwsid=fmQja0i9utRbdNI5PyUPjVrkt9kZnkTO0Y8w3emOVPTG-VoTrDZx_VVKxmSY-u2SfIvdw5hMClcua5ZCMlU5jg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NphRFeOsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d54121e9094fb-LIS

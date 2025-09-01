@@ -1,19 +1,20 @@
 :Status: 200
 Server: nginx
-Date: Sat, 24 May 2025 16:48:08 GMT
+Date: Fri, 29 Aug 2025 11:16:45 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976ba3510b8039c1-FRA
 Accept-Ranges: bytes
-Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=QVgZRjHsTqm4fVjzghnCI4n1tAtjKTpqI6w%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
-Set-Cookie: cqcid=abk3aF1E8nagE5Zf28bFUp9wfi; Path=/; Secure; SameSite=None
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=4CjGqfkF_db_QrTBR1LUYc1GD_sEv598HA4%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=ac6wsOUEhHwGKaJkKue9IskYho; Path=/; Secure; SameSite=None
 Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=abk3aF1E8nagE5Zf28bFUp9wfi; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Thu, 20 Nov 2025 16:48:07 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=QVgZRjHsTqm4fVjzghnCI4n1tAtjKTpqI6w; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=ac6wsOUEhHwGKaJkKue9IskYho; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:16:44 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=4CjGqfkF_db_QrTBR1LUYc1GD_sEv598HA4; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=wL7dLomjSViUsMFGqpxaqggTcGPbZj2bD2HWxTY2so7J0zqCtgjevsODwruQO0llYSA1xnTgfHrk5FopYCKIJA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: F5mLPEf4MWgBAAB_
+Set-Cookie: dwsid=FHgHU1Q48dPlXD8q-uByYDkWzgGpgpN5BhDlIKgwrFuSZ-wpV6A4O51d2E-bbTMy0zNrsUoWgjdKssGOUadCHQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: hasEIhyMsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
 X-Content-Type-Options: nosniff
 Cache-Control: no-cache, no-store, must-revalidate
@@ -23,6 +24,5 @@ Vary: accept-encoding
 Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains
-Cf-Ray: 944e475fc981dbaf-FRA
 X-L11-Trace: ffm14-lb2
 X-Proxy-Cache: MISS

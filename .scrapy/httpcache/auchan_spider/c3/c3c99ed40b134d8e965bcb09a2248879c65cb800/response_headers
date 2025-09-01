@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:25:42 GMT
+Date: Fri, 29 Aug 2025 11:26:19 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb14df895cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=vgoRj05uwv6eLzovhH6CMHQh3a7K-HNUl8w; Path=/; Secure; SameSite=None
+Set-Cookie: sid=CcOQVDfGqSOexlNG6liyylPGOiz5TGpl3F8; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acVsVHHuaIsZSu9AEl88f0WEGf; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:25:41 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=advAxLbiqjEwLK4vaytfOxzPRe; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:26:17 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=h2lITBWM4DnN5CV_AsAfPU1ChG2RGlGTxAfi-_Zrf2ttRL4VNkm9ARKtONOxiSYdeoStpdfWQzjI8mZpJW3FmA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66lGsfVBL2gBAAB_
+Set-Cookie: dwsid=CGyEpQ9MaulfR_BS1yyhCFJpLt3BxqmvHd6W0Y46qbcEZPnmlVPyalJQAcT-Ta_Q2deYsw0ZzYnKN-O4OtighA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqLRVmOsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d53e10c5694fb-LIS

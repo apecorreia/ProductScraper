@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:23:40 GMT
+Date: Fri, 29 Aug 2025 11:23:56 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976badd24ee6cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=nd-Hq9yXoJWjj61TFB8_SOu7IF51Gds7YdE; Path=/; Secure; SameSite=None
+Set-Cookie: sid=yFA_xds1pHTXDAzzHkKgjB71MGgEeeQnqXM; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bc8yV2aohL39lKz1VGL4Q6iunE; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:23:40 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acnKoFZCnm1vSTqdu6ZTtPaYqA; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:23:54 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=64LVIMZl5JXtHrwJjUk9V53mctVv6587L0BQ0OlxgaKll6PuUIdoXrddDNhip20g_neR2oHqnVaw-wWm9ckzqQ==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kOgXxBL2gBAAB_
+Set-Cookie: dwsid=x73LofBJ39KMwA1HxYRb-hEYxAwvBZ-B8r_Oy6gWNDAyJTJd58oBtXRnzHnui509Q7V1XAFhmxM5347xealJxg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqN8MqNsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d50ebaaf094fb-LIS

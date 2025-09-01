@@ -1,5 +1,5 @@
 from configuration.connection import DBConnectionHandler as dbch
-from entities.product import Product
+from entities.product import Product, Store
 import pandas as pd
 
 class DBManager:
@@ -26,10 +26,9 @@ class DBManager:
             if columns:
                 # Query only specific columns
                 selected_columns = [getattr(Product, col) for col in columns]
-                query = db_handler.session.query(*selected_columns)
+                query = db_handler.session.query(*selected_columns, Store.storeName).join(Store, Product.storeId == Store.storeId)
             else:
-                # Default to query all columns
-                query = db_handler.session.query(Product)
+                query = db_handler.session.query(Product, Store.storeName).join(Store, Product.storeId == Store.storeId)
 
             self.query_statement = query.statement
             self.engine = db_handler.get_engine()

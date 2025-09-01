@@ -1,17 +1,18 @@
 :Status: 200
-Date: Sat, 24 May 2025 16:55:03 GMT
+Date: Fri, 29 Aug 2025 11:22:57 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bac6cbbdccef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=t8J9PaMLm3weADUbaGvwr3DGpi5JlaNEcvs; Path=/; Secure; SameSite=None
+Set-Cookie: sid=aYvuYL4FuINHBZLa-kkKRK4q7DAu-zHyUB4; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abGK0iRB8Y6ZIsH2JKb1yjz6iH; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Thu, 20 Nov 2025 16:55:00 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=absoOecv3jqkveT2foziCpKrID; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:22:57 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=SYeBWLePG_B4zwzl4oTIn46DWktdESPIFDQtwRGq9-MFz-rU3qbgaOtXYHbDgvidJadZ6Yr4ySt6QP7f5rKjrw==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: FqMaxeT5MWgBAAB_
+Set-Cookie: dwsid=o4Q4E6mwd9ZXCUkYwHM9q2QlOkM5Tv6nQBIcA1xFejCrdYbb93jHet0UH1zmK91FQsgPUF1QeFZVRC_sDJS30g==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqTzpGNsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 944e51783ec6950a-LIS

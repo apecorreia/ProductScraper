@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:24:24 GMT
+Date: Fri, 29 Aug 2025 11:24:49 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976baf1e48b6cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=1uB15eZ0VU2IJJF3gxJpkABxW7DBlGBknVM; Path=/; Secure; SameSite=None
+Set-Cookie: sid=ZRimC_rArfl84d1rOM56x2KHk6z850TkM4c; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acYaRhxyKrR6GO2Xb9NMsnWqCx; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:24:23 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acP3tv4fAjQ99yrbo9HAxhtaft; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:24:47 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=KLtbB2ApqyKwrQ2c2xxUof4qdVJHyZ4LpdpIJL97SVo3EwCXj-RFdfyso26ylPGAt37I6yIU8ePR9duQlgU09Q==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66llk6dBL2gBAAB_
+Set-Cookie: dwsid=i8ghoqApuYgs3sg_DumWhoxXFAWmDlCVY7is57E8j9EqMHlL5Bf-sEEgzKSp8nOEXcZ9pfe6YeJoCQwv5OaZ-g==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NpoEf-NsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d51f95caf94fb-LIS

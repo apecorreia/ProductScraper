@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:28:53 GMT
+Date: Fri, 29 Aug 2025 11:29:34 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb60faa7bcef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=PbqrR-zd723bndRlqJ4Drfgp_csm5khdDJU; Path=/; Secure; SameSite=None
+Set-Cookie: sid=oT-1EY5N3ZZIerwCxjw62gMiJ9lZVkf-zc4; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abt9UwxVcH508lLAwSgMw4AKgL; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:28:53 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ab4dOsZ8VXYGoMv0WPKgAeBmni; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:29:31 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=DgKE9wTbB5-p3-L5M0r1ucuR0nvO4KCvftedB8LVk71yuVPUBvDLOfrWBxavFP4HSlmwQ991ixs6HQNEo76Qzg==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kEAbVCL2gBAAB_
+Set-Cookie: dwsid=8TxzKm8iPwAm1rHQkFmhSlMh4eK4OaVoo2LkTo3jigFUGqUTV-MPeOMsPxIFgSyl-s0FsT66KcnZhQVdO5Bu-Q==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NrEwRuPsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d588f98ec94fb-LIS

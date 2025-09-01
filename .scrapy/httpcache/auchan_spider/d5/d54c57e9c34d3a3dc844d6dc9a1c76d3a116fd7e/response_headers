@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:40:18 GMT
+Date: Fri, 29 Aug 2025 11:56:34 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdd9c8b37d92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=NLFM6FK_zDinn_u1G55N--EQYyhfCijMwh4; Path=/; Secure; SameSite=None
+Set-Cookie: sid=3RwI5v3iNXUn1IwN9AVWeDPecoM4d72vQks; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bdYWGqcchWyIsq1fDZ0Rdbeacg; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:40:18 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abuEHg6yFZsofApmEiIl9ChbSR; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:56:31 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=ZV3GVIZgEIfKm3x0n1zUYrD86ZSL1fRzrxqcVBFDhm3wmtLB-df5-6xZD3tj6FxnBv-qlmuMVVT3OCS62NOs9g==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66ljAGJFL2gBAAB_
+Set-Cookie: dwsid=QNzNxlnY5aLStZzV_apn2K4et6OcTW14tyouTn-EpwxxIeM2QhRLfFgcv7aaUbcBd3oYms2dauFS2-FFxq8izA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NrKOW-VsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d69487bd26932-LIS

@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:26:17 GMT
+Date: Fri, 29 Aug 2025 11:26:45 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb1f15df5cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=zhn7xdS_Jucr2u9nmKhNCEPIAraBNM8zAvI; Path=/; Secure; SameSite=None
+Set-Cookie: sid=lutktikT5sLBJrHylHfIz34r9SmkXR0FTLo; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abfz2PddATAoVBZoHbrJ1DGHqE; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:26:16 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=cdVbFNRLBANoztFIbHv1LXIioa; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:26:43 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=GvQAbf6DwUt1h4QC3EyoyZcl-R6rCCifXK-i76d3IIos3jMO5uvKif5gI2BjpWtrML59Xo2ryR0HNmqJ_wq7CQ==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66nJvxdCL2gBAAB_
+Set-Cookie: dwsid=cvAqdPLl_jMW8QQKv5pbzpowu-t_qwX0m20uriLhYX-9_TCLHSg08dvCT8SMrpuE5JcCrrXt06togUy18oE1mA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NrdVXOOsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d54b6a82a94fb-LIS

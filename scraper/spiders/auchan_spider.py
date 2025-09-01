@@ -258,7 +258,8 @@ class AuchanSpider(scrapy.Spider):
                 }
         """
         service = Service(ChromeDriverManager().install())# pylint: disable=line-too-long
-
+        driver = None
+        
         try:
             driver = webdriver.Chrome(service=service, options=self._get_chrome_options())
             wait = WebDriverWait(driver, 20)  # Increased timeout to 20 seconds
@@ -326,11 +327,8 @@ class AuchanSpider(scrapy.Spider):
                 return {}
 
         finally:
-            try:
+            if driver:
                 driver.quit()
-                self.logger.info("Selenium driver closed successfully")
-            except Exception as e: # pylint: disable=broad-exception-caught
-                self.logger.error(f"Error closing driver: {str(e)}")
 
     def extract_category_names(self, links, categories_to_skip):
         """
@@ -378,6 +376,7 @@ class AuchanSpider(scrapy.Spider):
 
     def _get_chrome_options(self):
         options = Options()
+        options.binary_location= "C:/Program Files/Google/Chrome/Application/chrome.exe"
 
         # Headless mode
         options.add_argument("--headless=new")
@@ -386,6 +385,8 @@ class AuchanSpider(scrapy.Spider):
         # Security settings
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-setui-sandbox")
+        options.add_argument("--remote-debbuging-port=9222")
 
         # Performance settings
         options.add_argument("--disable-extensions")

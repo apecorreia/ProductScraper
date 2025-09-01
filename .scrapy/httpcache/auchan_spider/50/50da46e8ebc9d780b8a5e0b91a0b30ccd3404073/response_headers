@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:41:04 GMT
+Date: Fri, 29 Aug 2025 11:57:15 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bde9f3b51d92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=8sYbtmRlmNHoGyQffRFmBQra-7rGeeH8UBM; Path=/; Secure; SameSite=None
+Set-Cookie: sid=j11tWHEZCVNXsq-_xfs5RBnlq-994o5t5l4; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acHanefomMAA51Ml2lTMhFRyJZ; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:41:02 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=adHlQATw3iq4c3aR1gfxb34XLp; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:57:13 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=fSydkjkYDLcSpytZAs9ur4UwfZ6bBHWaqq8qlYkcGwPz577a7e5fWkUk19KLxuDFekS4VHwtlSWn31sE7R84EA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kbEI5FL2gBAAB_
+Set-Cookie: dwsid=SKUcTxoeMo3btofiBtzWa94d2vgW5bWzalqEK89q0eu0ijn92t8u4LimJENU1AIiEAaJhEPRPqElIAjstqxPYQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Nr-UpmVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d6a58a8726932-LIS

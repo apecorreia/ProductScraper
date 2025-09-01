@@ -1,20 +1,20 @@
 :Status: 200
 Server: nginx
-Date: Sat, 24 May 2025 16:43:14 GMT
+Date: Fri, 29 Aug 2025 11:11:48 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976b9c191fb2dc8d-FRA
 Accept-Ranges: bytes
-Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=MjmmSE8FV2e6fObFvqXXQjXkvd3Z1Cp-iKg%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
-Set-Cookie: cqcid=adwzcdX6mCgbBwGaSaR80ZxoqP; Path=/; Secure; SameSite=None
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=S_ah6cEsDb2SxZfpFYJFloDrCv0178i6i_g%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=de2duFUH43IQZaMwYMUpdVHbdc; Path=/; Secure; SameSite=None
 Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=adwzcdX6mCgbBwGaSaR80ZxoqP; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Thu, 20 Nov 2025 16:43:14 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=MjmmSE8FV2e6fObFvqXXQjXkvd3Z1Cp-iKg; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=de2duFUH43IQZaMwYMUpdVHbdc; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:11:48 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=S_ah6cEsDb2SxZfpFYJFloDrCv0178i6i_g; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=o2DxA-DxC6IppCFEKD6TcKS96pZ2IHa7G3Dbe02jmQkeLXV9xhFjavMGcv3aACd8vaGDkgEkwB-1kDg3zIwdtA==; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: dwsid=WqUQdFP4OvkLpouKFWIWeJG4u2CnO__-EpsmpZf6ko3qvuEDmoFzadGJIaukiMQv_Yvxbo9hB_XSV43U-QkxlA==; path=/; HttpOnly; Secure; SameSite=None
 X-Content-Type-Options: nosniff
-X-Dw-Request-Base-Id: F5l3dBn1MWgBAAB_
-Dnt: 1
 Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
+X-Dw-Request-Base-Id: has_O3WBsWgBAAB_
 Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 Expires: Thu, 01 Dec 1994 16:00:00 GMT
@@ -22,6 +22,5 @@ Vary: accept-encoding
 Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains
-Cf-Ray: 944e4036bb06195c-FRA
 X-L11-Trace: ffm14-lb2
 X-Proxy-Cache: MISS

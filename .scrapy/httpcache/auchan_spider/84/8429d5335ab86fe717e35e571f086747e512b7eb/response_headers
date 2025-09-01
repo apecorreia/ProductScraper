@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:26:33 GMT
+Date: Fri, 29 Aug 2025 11:56:26 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdd6c3f6bd92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=5IS9a1hTk87RU8lbE7vFigtdKayHzuMGric; Path=/; Secure; SameSite=None
+Set-Cookie: sid=dp2Uskyk0trcH5PXT04pohOxdCGJ0bDL9qI; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abf9H1yE8cNEeEOE5T12DToZhn; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:26:32 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=cds0bmMdYPHnPWGeJMaUIE9hCC; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:56:24 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=O1XKS1Mi7AqjHgKke5lBjdSMXoyMv5zC3GoEBh0PIVqFgv4lr4dkPfthMH6YrcrSdvVnsjdUPsL8kJshvKMcpA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66n7xihCL2gBAAB_
+Set-Cookie: dwsid=_O2aYwJFUyEBntvvhWsJ5ZnBevDHMDEwKyN72GHoli8AYuaeCpyfMHQw6OotomabPxN9AQyTaUjd1imE8XDvmA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqmNGiVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d5520cddf94fb-LIS

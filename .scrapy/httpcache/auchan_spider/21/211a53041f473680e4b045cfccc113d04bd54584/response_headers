@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:26:22 GMT
+Date: Fri, 29 Aug 2025 11:27:06 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb276cc47cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=B2FjX_iQ2cj9aX05CcQHR8GVAZY4Os9GsH8; Path=/; Secure; SameSite=None
+Set-Cookie: sid=epP4Zgmc9nEVIkYF-NVR9cdQ8NWN3feV3TM; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bc2OphZga0aj3pvV6qFLnsiuLX; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:26:22 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abwzTcqdjwzCTig2TFzCxxEZpT; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:27:04 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=WaacvDhRehaLmX49-FffcJ9S_nX4-2yYxo-RZdJeTneZxt6ynpnnAo2Y0mWDjs9RMt5brMRj-0HbHUS69328aw==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66l-wh5CL2gBAAB_
+Set-Cookie: dwsid=kxJcOoGVb_QuajjLcwwu-S7RVIkF1G4Q5ns-tAxyatuWzRjI6euI7-maQk4NbOZbzgzPY-qJtzyb5LLoRmDaAQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NrjYYiOsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d54dfca5994fb-LIS

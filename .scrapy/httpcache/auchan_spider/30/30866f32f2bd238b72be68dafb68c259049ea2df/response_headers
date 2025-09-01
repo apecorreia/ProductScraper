@@ -1,21 +1,22 @@
 :Status: 200
-Date: Sat, 24 May 2025 16:55:19 GMT
+Date: Fri, 29 Aug 2025 11:23:18 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976baccad87acef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=aGopC5nI6R-WItuoRmVH86UxB0B6952t4ko; Path=/; Secure; SameSite=None
+Set-Cookie: sid=LPaBGPfEW0QaM-RoYue7iCg9LbN7KGZfJnA; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=beqLbZALaHcxbo13MNEV6Gg8Oe; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Thu, 20 Nov 2025 16:55:19 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ab4zG0h0LzOh4C6xRl802n5WmY; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:23:12 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=_JIOOtzcuOE0ZTCdQFpMbTHJIHE_48xTQA2gKb7InLRoAAqw9HTfkuozt3FWXN6raG0ca7yQXxAafNvYWfjZhg==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: FqMly_f5MWgBAAB_
-Content-Security-Policy: frame-ancestors 'self'
+Set-Cookie: dwsid=vbqSIQfw0Uu7SygQn3FdF7lxPoqLHOxQhwj2AdoFEDDKXonIq_H3kLYeq6V9HYV17GPGWAmFzqyEF6cP0cCzKg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3No916CNsWgBAAB_
 Referrer-Policy: no-referrer
-X-Robots-Tag: noindex
 Permissions-Policy: default 'none'
+Content-Security-Policy: frame-ancestors 'self'
+X-Robots-Tag: noindex
 X-Content-Type-Options: nosniff
 Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 944e51ea09b2950a-LIS

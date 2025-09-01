@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:23:40 GMT
+Date: Fri, 29 Aug 2025 11:23:58 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976badda5d6ecef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=SnR4XYMohdq3i_YLN9lHjntZgYHUdsgMv3s; Path=/; Secure; SameSite=None
+Set-Cookie: sid=Re14O_Q4IXgAM95_XckhVz5jtwpBS-yqCxU; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=cecbKbagOBReTz9N0Kq3Xg2aaE; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:23:38 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abanp26bczS5XiDz9YmTSt9e0B; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:23:55 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=ASoktjmrmipFNRQKrR7cqzAH3Wpu9df8TcU2C_gSm7H-_V0JeSzJHX-8ULgwplr-5-bKavxvqWrYfOuDWCicEA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66lxgHpBL2gBAAB_
+Set-Cookie: dwsid=VOpE5xKDTj00cycC1byFiC9ki9an8IPvP1UXyD8Z1k3vTn23RyRhV-_DODFiGhKkt4HF2q2bVYzOkCMdR9UGHQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Np88cuNsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d50e12c0994fb-LIS

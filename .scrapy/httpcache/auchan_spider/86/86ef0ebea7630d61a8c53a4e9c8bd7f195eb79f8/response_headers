@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:30:21 GMT
+Date: Fri, 29 Aug 2025 11:31:51 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bb9671e05cef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=FwTNS1k4Kft8z16060HWZVaNP8azIrvIs6Q; Path=/; Secure; SameSite=None
+Set-Cookie: sid=6EAk32yI4EmBEFkU2E7ewPAz5IZdm0glcHI; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bdSt3QYIela83i9pWQ8bpdcUvS; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:30:21 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abajUsvKwpQj86K0ljyaisgfmc; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:31:48 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=0jVtGqXTMW9hZM9zXpPNRJO8n5dPyaNcrg98n-hIiZFVBaAf4nKtGqn1uJxdY1czW7vL_3txQFVdxp6H-5Pcmg==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66lYIg1DL2gBAAB_
+Set-Cookie: dwsid=zF4Dzpw-j482Y4KIZ4ZDn9Qtw5etLSfjxwGS7Jn2ttOrNpl4R3A8mxWT7LJ8KOA-NCG6tgQhvJNmMhZlvJxMMw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqjG6SPsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d5ab5692e94fb-LIS

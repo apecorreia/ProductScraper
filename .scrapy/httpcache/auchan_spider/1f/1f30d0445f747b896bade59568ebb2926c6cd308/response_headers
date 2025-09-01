@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:23:56 GMT
+Date: Fri, 29 Aug 2025 11:24:13 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bae389f5ecef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=6TNQBxu0CrAfL9YLm5zElvgq2XJMJJpLTRo; Path=/; Secure; SameSite=None
+Set-Cookie: sid=_8jrpB-NFk3Kt5Upr8iZ3F54ss9NVyKhUqc; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ac3huXwhXmAiKHladw7Aq1KLIg; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:23:56 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abYJ19KInBsJu2C23kmll3zr0e; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:24:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=eKowC9aIsqwbHacyRq3EaGmzuX6BGCJXSSi5aBfDcmP4pqfcAW2fuF6eEdqur2XcqMvNBI9wXUqJwjWkAZz48g==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66mqh4xBL2gBAAB_
+Set-Cookie: dwsid=Wv_iwUQ7yjhfvGzbmrdc3vtPu6oW4f7Ux6yNRuVai6t8HDHKDZ1-AyfOdpoZ6lx4jvKd0MFb0TtaJ2hSk_42cA==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Noy-9qNsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d514eca6b94fb-LIS

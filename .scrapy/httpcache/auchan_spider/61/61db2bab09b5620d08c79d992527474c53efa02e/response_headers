@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:23:43 GMT
+Date: Fri, 29 Aug 2025 11:24:02 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976badf63a7fcef8-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=pSKJe4MycF83G7mj6Dk2GAwPhCK-z7C1-JA; Path=/; Secure; SameSite=None
+Set-Cookie: sid=HKYR3MA8-iv38Kxqx1-XF2SYQWH2NdlQVLo; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=aca6iYp4BErnT8zQXtqpDgsumF; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:23:43 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abJjJitnRIzeNFjw6WOZOG2BWH; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:24:00 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=V_7g6WXy4ooB0CkyXB8h7v7T7bBYDyJgzlvp56hD4EYp1kdlM7L3ONT4JdmYps3ZacYMOPiLtAGyJM55lvyszw==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66kQgn9BL2gBAAB_
+Set-Cookie: dwsid=VAZTjgFKgigTczoN4nsP1iw4AzM3Q6FTsDkZJystt9hBtGbH8dr9znCXNZtOnTj6_SwLRvCDP82Dw-e4RImO4w==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3Npp9NCNsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d50fcca1994fb-LIS

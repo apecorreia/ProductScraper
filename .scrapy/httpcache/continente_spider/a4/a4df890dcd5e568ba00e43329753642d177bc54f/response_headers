@@ -1,21 +1,20 @@
 :Status: 200
 Server: nginx
-Date: Thu, 22 May 2025 15:35:21 GMT
+Date: Fri, 29 Aug 2025 11:50:52 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bd5506e629b94-FRA
 Accept-Ranges: bytes
-Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=T_HMMpTEUWCBlwVuixMoJ-ldUl9SbvS1Vuc%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
-Set-Cookie: cqcid=ab6DjVNU7yIaR1yx1sOrJVn4Tn; Path=/; Secure; SameSite=None
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=V5Ym5mXIicSGcg5gK8eO1a2MrFJgC7jZMro%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=abz9MTViEdKHjJLMxM1dbId2fR; Path=/; Secure; SameSite=None
 Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=ab6DjVNU7yIaR1yx1sOrJVn4Tn; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:35:20 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=T_HMMpTEUWCBlwVuixMoJ-ldUl9SbvS1Vuc; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=abz9MTViEdKHjJLMxM1dbId2fR; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:50:52 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=V5Ym5mXIicSGcg5gK8eO1a2MrFJgC7jZMro; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
-Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=lIui2Oe-bdtCE2284yfUTDInPLUhFMgOlWNmlwNb9FihUXftaHAi3k_oCrj3nZyhgApAaK2ZI4CFEwRyWgh4jQ==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: ChA9XjhEL2gBAAB_
-Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
+Set-Cookie: dwsid=1aHy_1PM3wIByYCPsM0jPy-7eEtWD-4ftQHriRIx5c5Me9PAJIKuqs-WDzJI_q3oRX5hoSz25fc_TURLRwrsVw==; path=/; HttpOnly; Secure; SameSite=None
 X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
+X-Dw-Request-Base-Id: hashToeNsWgBAAB_
 Cache-Control: no-cache, no-store, must-revalidate
 Pragma: no-cache
 Expires: Thu, 01 Dec 1994 16:00:00 GMT
@@ -23,6 +22,5 @@ Vary: accept-encoding
 Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains
-Cf-Ray: 943d620108f38edc-FRA
 X-L11-Trace: ffm14-lb2
 X-Proxy-Cache: MISS

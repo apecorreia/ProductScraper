@@ -8,12 +8,15 @@
       "charcutaria-15",
       "padaria-e-pastelaria-16",
       "frigorifico-20",
-      "produtos-locais"
+      "produtos-locais",
+      "frutas-e-vegetais",
+      "take-away"
     ],
     "Laticínios Ovos e Natas": [
       "laticinios-e-ovos",
       "leite-ovos-e-natas-19",
-      "produtos-locais"
+      "produtos-locais",
+      "leite-natas-e-ovos"
     ],
     "Congelados": [
       "congelados",
@@ -30,7 +33,8 @@
     "Bebidas e Garrafeira": [
       "bebidas-e-garrafeira",
       "bebidas-22",
-      "produtos-locais"
+      "produtos-locais",
+      "bebidas"
     ],
     "Bio Eco e Saudável": [
       "bio-eco-e-saudavel",
@@ -45,7 +49,9 @@
     "Beleza e Higiene": [
       "beleza-e-higiene",
       "higiene-e-beleza-24",
-      "saude-e-bem-estar"
+      "saude-e-bem-estar",
+      "higiene-pessoal-e-beleza",
+      "parafarmacia"
     ],
     "Bebé": [
       "bebe",
@@ -70,7 +76,9 @@
     "Livraria e Papelaria": [
       "livraria-e-papelaria",
       "livraria-28",
-      "papelaria-e-livraria"
+      "papelaria-e-livraria",
+      "bazar",
+      "regresso-as-aulas"
     ],
     "Desporto e Malas de Viagem": [
       "desporto-e-malas-de-viagem",
@@ -93,7 +101,8 @@
       "Mercearia",
       "Nutrição Desportiva",
       "future-taste",
-      "sabores-do-mundo"
+      "sabores-do-mundo",
+      "polvo-lula-pota-e-choco"
     ],
     "Talho": [
       "talho",
@@ -113,7 +122,10 @@
       "Mercearia",
       "Nutrição Desportiva",
       "future-taste",
-      "sabores-do-mundo"
+      "sabores-do-mundo",
+      "bovino-novilho-e-vitelao",
+      "frango-peru-e-pato"
+
     ],
     "Frutas": [
       "frutas",
@@ -144,7 +156,9 @@
       "future-taste",
       "sabores-do-mundo",
       "produtos-locais-frescos",
-      "cogumelos"
+      "cogumelos",
+      "ervas-aromaticas-frescas",
+      "vegetais"
     ],
     "Queijos": [
       "queijos",
@@ -191,7 +205,12 @@
       "chouriço e chourição",
       "mortadela",
       "outros enchidos e fumeiro",
-      "presunto"
+      "presunto",
+      "chourico-e-chouricao",
+      "alheira-e-farinheira",
+      "outros-enchidos-e-fumeiro",
+      "salschas",
+      "salsichas"
     ],
     "Padaria e Pastelaria": [
       "padaria-e-pastelaria",
@@ -207,7 +226,10 @@
       "Padaria e Pastelaria",
       "Pão Fresco",
       "future-taste",
-      "sabores-do-mundo"
+      "sabores-do-mundo",
+      "padaria-fresca",
+      "pao-embalado",
+      "pao-e-bolos-embalados"
     ],
     "Take-Away": [
       "take-away",
@@ -218,7 +240,13 @@
       "Mercearia",
       "Nutrição Desportiva",
       "future-taste",
-      "sabores-do-mundo"
+      "sabores-do-mundo",
+      "entradas-e-salgados",
+      "sopas-e-refeicoes-pre-preparadas",
+      "saladas-sandes-e-wraps",
+      "prato-principal-e-acompanhamentos",
+      "sobremesas",
+      "churrasco"
     ],
     "Leite, Ovos e Natas": [
       "leite",
@@ -242,7 +270,15 @@
       "produtos-lacteos",
       "sabores-do-mundo",
       "Leite para Levar",
-      "pizzas, massas e outros"
+      "pizzas, massas e outros",
+      "leite-fresco",
+      "leite-magro",
+      "leite-meio-gordo",
+      "leite-gordo",
+      "leite-aromatizado",
+      "bebida-vegetal",
+      "ovos",
+      "natas-bechamel-e-chantilly"
     ],
     "Iogurtes": [
       "iogurtes",
@@ -312,7 +348,8 @@
       "Mercearia",
       "Nutrição Desportiva",
       "future-taste",
-      "sabores-do-mundo"
+      "sabores-do-mundo",
+      "massas-e-outros"
     ],
     "Batata Frita, Snacks e Puré": [
       "batata-frita-e-pure",
@@ -331,7 +368,8 @@
       "palha",
       "pipocas",
       "snacks variados",
-      "tortitas"
+      "tortitas",
+      "aperitivos-e-snacks"
     ],
     "Salgados, Folhados e Pastelaria": [
       "salgados-folhados-e-pastelaria",
@@ -375,7 +413,8 @@
       "entradas e salgados",
       "crocantes e panados",
       "crocantes, panados e hambúrgueres",
-      "preparados de mousses e bolos"
+      "preparados de mousses e bolos",
+      "sopas-e-refeicoes-pre-preparadas"
     ],
 
     "Gelados": [
@@ -417,7 +456,10 @@
       "amêijoa, camarão e outros",
       "bacalhau",
       "legumes simples",
-      "vegetariano e vegan"
+      "vegetariano e vegan",
+      "salgados-e-aperitivos",
+      "frutas-e-vegetais",
+      "gelo"
     ],
     "Vegetariano e Vegan": [
       "vegetariano-e-vegan",
@@ -442,6 +484,7 @@
     "Nutrição Desportiva": [
       "Nutrição Desportiva",
       "Suplementos",
+      "suplementos",
       "Pingo Doce",
       "As Nossas Marcas",
       "biologicos",
@@ -471,7 +514,8 @@
       "acessorios-de-saude",
       "sabores-do-mundo",
       "sem-acucar-adicionado",
-      "aveia"
+      "aveia",
+      "saude"
     ],
     "Biológicos": [
       "Biológicos",
@@ -529,7 +573,8 @@
       "cereais muesli e granola",
       "cereais variados",
       "frutos secos e desidratados",
-      "muesli e granola"
+      "muesli e granola",
+      "cereais-de-pequeno--almoco"
     ],
     "Chocolate, Gomas e Rebuçados": [
       "chocolate-gomas-e-rebucados",
@@ -559,7 +604,9 @@
       "biologicos",
       "novidades",
       "Alternativas Alimentares",
-      "Biológicos"
+      "Biológicos",
+      "farinha-e-fermento",
+      "sementes-bagas-e-graos"
     ],
     "Azeite, Óleo e Vinagre": [
       "azeite-oleo-e-vinagre",
@@ -589,7 +636,8 @@
       "recheadas",
       "salgadas",
       "tostas e croutons",
-      "waffers e outras"
+      "waffers e outras",
+      "pao-e-tostas"
     ],
     "Compotas Cremes e mel": [
       "compotas-cremes-e-mel",
@@ -600,7 +648,8 @@
       "novidades",
       "Alternativas Alimentares",
       "Biológicos",
-      "Compotas e Doces"
+      "Compotas e Doces",
+      "compotas-e-doces"
     ],
     "Alimentação Infantil": [
       "alimentacao-infantil",
@@ -647,7 +696,11 @@
       "lisboa",
       "setúbal",
       "tejo",
-      "verde"
+      "verde",
+      "vinho-branco",
+      "vinho-tinto",
+      "vinho-rose",
+      "vinho-do-porto"
     ],
     "Cervejas e Sidras": [
       "cervejas-e-sidras",
@@ -674,7 +727,8 @@
       "café solúvel",
       "cappuccino e outros",
       "cápsulas e pastilhas de café",
-      "descafeinado"
+      "descafeinado",
+      "chas-e-infusoes"
     ],
     "Bebidas Espirituosas": [
       "bebidas-espirituosas",
@@ -684,7 +738,8 @@
       "garrafeira",
       "garrafeira-exclusiva-online",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "whisky-e-espirituosas"
     ],
     "Champanhe e Espumante": [
       "champanhe-e-espumante",
@@ -728,7 +783,9 @@
       "refrigerantes com gás",
       "refrigerantes sem gás",
       "sumos e néctares",
-      "sumos e polpas fruta"
+      "sumos e polpas fruta",
+      "smoothis-e-sumos-refrigerados",
+      "ice-tea"
     ],
     "Açúcar e Sobremesas": [
       "acucar-e-sobremesas",
@@ -738,7 +795,8 @@
       "Doçaria e Sobremesas",
       "Pingo Doce",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "acucar-e-adocante"
     ],
     "Água": [
       "agua",
@@ -758,14 +816,16 @@
       "novidades",
       "Bebidas",
       "água aromatizada e tisanas",
-      "água tónica"
+      "água tónica",
+      "sangria"
     ],
     "Papel Higiénico": [
       "papel-higienico",
       "Papel Higiénico e Toalhitas",
       "Pingo Doce",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "papel-higienico-e-toalhitas"
     ],
     "Cuidados com o Corpo": [
       "maquilhagem",
@@ -813,7 +873,11 @@
       "mãos e pés",
       "protetor criança",
       "pós-solar e outros",
-      "sabonetes"
+      "sabonetes",
+      "perfumes-e-colonias",
+      "perfumaria",
+      "higiene-e-beleza"
+      
     ],
     "Higiene Oral": [
       "higiene-oral",
@@ -852,14 +916,17 @@
       "Preservativos e Lubrificantes",
       "Pingo Doce",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "bem-estar-sexual"
     ],
     "Lenços e Cuidados de Saúde": [
       "lencos-e-cuidados-de-saude",
       "Lenços de Papel",
       "Pingo Doce",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "cuidados-de-saude",
+      "lencos-de-papel"
     ],
     "Desporto, Atividades e Viagem": [
       "mobilidade-eletrica",
@@ -916,7 +983,14 @@
       "livraria",
       "acessórios",
       "revista sabe bem",
-      "utensílios de cozinha"
+      "utensílios de cozinha",
+      "brinquedos",
+      "mochilas-trolleys-lancheiras-e-estojos",
+      "escrita-e-colorir",
+      "material-escolar",
+      "cadernos-e-papel",
+      "arquivo-e-organizacao",
+      "belas-artes"
     ],
     "Brinquedos": [
       "construcoes",
@@ -942,7 +1016,8 @@
       "educativos-e-criativos",
       "kidults",
       "merchandising-e-colecoes",
-      "super-herois-e-figuras"
+      "super-herois-e-figuras",
+      "brinquedos"
     ],
     "Casa": [
       "aquecimento-e-desumidificadores",
@@ -992,7 +1067,10 @@
       "amaciador",
       "lavandaria-e-organizacao",
       "pilhas-e-lampadas",
-      "textil-lar"
+      "textil-lar",
+      "pequenos-domesticos",
+      "limpeza-de-casa",
+      "stock-off"
       
     ],
     "Jardim": [
@@ -1002,7 +1080,9 @@
       "Pingo Doce",
       "As Nossas Marcas",
       "novidades",
-      "jardim-e-exterior"
+      "jardim-e-exterior",
+      "acendalhas-carvao-e-fosforos",
+      "jardim"
     ],
     "Bricolage e Automóvel": [
       "bricolage",
@@ -1013,7 +1093,8 @@
       "As Nossas Marcas",
       "novidades",
       "tintas-e-drogaria",
-      "automovel-e-motos"
+      "automovel-e-motos",
+      "automovel"
     ],
     "Cão": [
       "cao",
@@ -1097,7 +1178,10 @@
       "novidades",
       "cuidados-de-bebe",
       "cremes, loções e óleos",
-      "protetor criança"
+      "protetor criança",
+      "puericultura",
+      "bebe-e-crianca"
+      
     ],
     "Cadeiras Auto e Viagem": [
       "cadeiras-auto",
@@ -1115,13 +1199,17 @@
       "grandes-oportunidades",
       "quarto-do-bebe",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "banheiras-e-complementos",
+      "mobiliario-e-colchoes",
+      "cadeiras-e-acessorios-de-refeicao"
     ],
     "Roupa": [
       "Roupa",
       "Pingo Doce",
       "As Nossas Marcas",
-      "novidades"
+      "novidades",
+      "textil-de-bebe"
     ],
     "Proteção e Conforto": [
       "protecao-e-conforto",
@@ -1181,7 +1269,11 @@
       "lixívia",
       "madeira e vidro",
       "multiusos",
-      "tira gorduras"
+      "tira gorduras",
+      "loica",
+      "rolos-de-cozinha",
+      "limpeza-do-calcado",
+      "chao-e-superficies"
     ],
     "Acessórios de Limpeza": [
       "sacos-e-baldes-do-lixo",
@@ -1209,7 +1301,8 @@
       "As Nossas Marcas",
       "novidades",
       "Inseticidas",
-      "casa"
+      "casa",
+      "insecticidas"
     ]
   },
   "category_subcategory_relationships": {
@@ -1368,7 +1461,10 @@
     ],
     "Livraria e Papelaria": [
       "Livros",
-      "Papelaria"
+      "Papelaria",
+      "Casa",
+      "Jardim",
+      "Bricolage e Automóvel"
     ],
     "Desporto e Malas de Viagem": [
       "Desporto, Atividades e Viagem",

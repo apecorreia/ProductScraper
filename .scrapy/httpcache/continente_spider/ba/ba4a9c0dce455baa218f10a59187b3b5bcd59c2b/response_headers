@@ -1,11 +1,20 @@
 :Status: 200
 Server: nginx
-Date: Sat, 24 May 2025 16:49:13 GMT
+Date: Fri, 29 Aug 2025 11:17:41 GMT
 Content-Type: text/html;charset=UTF-8
-Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Ray: 976ba4847b2e3685-FRA
 Accept-Ranges: bytes
-Cf-Ray: 944e48cdbf49e7b0-FRA
-X-Dw-Request-Base-Id: F5m6WYL4MWgBAAB_
+Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=Ck2L0bT1TkN3Bm2trDy0jtRIset7Rv2MEVw%3D|dw-only|||EUR|false|Europe%2FLisbon|true; Path=/; Secure; SameSite=None
+Set-Cookie: cqcid=adFOja8SlxLYIXDMB082dD0bUN; Path=/; Secure; SameSite=None
+Set-Cookie: cquid=||; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=adFOja8SlxLYIXDMB082dD0bUN; Version=1; Comment="Demandware anonymous cookie for site Sites-continente-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:17:33 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: sid=Ck2L0bT1TkN3Bm2trDy0jtRIset7Rv2MEVw; Path=/; Secure; SameSite=None
+Set-Cookie: __cq_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: dw_dnt=0; Path=/; Secure; SameSite=None
+Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwsid=LIfpxFbRoAB6GozQaFstbPKC0_6ZYhPPHEBpIytrm2PGSKeM-bsdTiC04SPTGVBa6PRHlDrNXnEGIgcomjNfsw==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: hauOOU2MsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self' https://sonae.outsystemsenterprise.com outsystems://sonae.outsystemsenterprise.com https://cartaocontinente.pt outsystems://cartaocontinente.pt
 X-Content-Type-Options: nosniff
 Cache-Control: no-cache, no-store, must-revalidate
@@ -14,15 +23,6 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
 Vary: accept-encoding
 Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
-Set-Cookie: dwac_99f34b6e35d78e56f04854e02c=mIhAzEgyYaEJmKkb6t2XrIYSMfono1lcx1I%3D|dw-only|||EUR|false|Europe%2FLisbon|true; SameSite=None; Secure; Path=/
-Set-Cookie: cqcid=acOGXPvuwSjqeWY8F3bawhgOYm; SameSite=None; Secure; Path=/
-Set-Cookie: cquid=||; SameSite=None; Secure; Path=/
-Set-Cookie: dwanonymous_921d4ae6710e4b2198d48293cc3ce075=acOGXPvuwSjqeWY8F3bawhgOYm; SameSite=None; Secure; Path=/; Max-Age=15552000; Expires=Thu, 20 Nov 2025 16:49:06 GMT
-Set-Cookie: sid=mIhAzEgyYaEJmKkb6t2XrIYSMfono1lcx1I; SameSite=None; Secure; Path=/
-Set-Cookie: __cq_dnt=0; SameSite=None; Secure; Path=/
-Set-Cookie: dw_dnt=0; SameSite=None; Secure; Path=/
-Set-Cookie: __dc_env=""; SameSite=None; Secure; Path=/; Expires=Thu, 01 Jan 1970 00:00:10 GMT
-Set-Cookie: __dcact=""; SameSite=None; Secure; Path=/; Expires=Thu, 01 Jan 1970 00:00:10 GMT
-Set-Cookie: dwsid=D4ByC-YcbCk9ihU4r4os3hEaAz2JjVTU80B3ViYFF2JdMRI67SSqWNKos1bcxsRJV5kD5I8LQixsS1FTeSv7vw==; HttpOnly; SameSite=None; Secure; Path=/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
 X-L11-Trace: ffm14-lb2
 X-Proxy-Cache: MISS

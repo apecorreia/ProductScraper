@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:28:26 GMT
+Date: Fri, 29 Aug 2025 11:57:16 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdea51b47d92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=FZENNK3nm-jYTeYF_iDaD5D3mkMNsDnBepU; Path=/; Secure; SameSite=None
+Set-Cookie: sid=4dBMxT_-xoFi916ys5JFSSoWvhK8ehOwcnI; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bdrK25XB7Aa0peoaiyxBbexxCL; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:28:24 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abBzaXzdpI2upWB7AX3P15Soub; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:57:14 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=5iQL3URveX9fjeJ04i4W4WNCnKrkONtW_VUDXhdUqklk1KH4KmmLP5L66ew8c3h9Muk0k3IjuU6YUK0wC23eMg==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66mf85hCL2gBAAB_
+Set-Cookie: dwsid=AILYYF_PGohJWkqjrk-Yr8tEKrfcS8-5Wd-r7G_p9QvMALUv2cT7l21XLvL4RBKPjSKCwZsr2fAyCqH8o_W_LQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqZU5qVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d57dacee894fb-LIS

@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:39:30 GMT
+Date: Fri, 29 Aug 2025 11:55:41 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdc515be7d92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=aGTzLz6UV0n_1sJBo6ChK1fSLjJgJX3VSLQ; Path=/; Secure; SameSite=None
+Set-Cookie: sid=gjn7SHnNniWYbS2v59nnec2UEdstzFrS9Gk; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abXVUE9L6KNt7NCs3qqJr89AuY; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:39:30 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=acBa2NcixeY6IaNUqtF5vJaDdH; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:55:38 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=BQ7IJuNKIeDOrmRRC05Oqjq4FTu9-wt8ecwuguVnkOI1FurEUmY3Q8wcov2bAOAeasebP812o96QsoeLUpdQCQ==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66mt7zJFL2gBAAB_
+Set-Cookie: dwsid=tm7CF9bGMvPli58mOFfQf_nDKISCx_YEiY_9j8HEB9WbgIYOFcnUDuQ6_ZN5j1juEx5mEG6AxW_tzzE-kXK9vg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NoiGDqVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d681aeeec6932-LIS

@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:24:37 GMT
+Date: Fri, 29 Aug 2025 11:55:27 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdbfb9e0fd92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=ZwPrtFeWlh4cq68nmir4TWnkW36c_oOKXkM; Path=/; Secure; SameSite=None
+Set-Cookie: sid=-U8KUdrcwL0d477iBpzbrhFmFX__UoWgR2k; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bc9aaOLfmWnOyUDLmwYC1qSIt6; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:24:35 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abRdnR18x7Bl02FO8sbaxkZpuq; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:55:25 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=OODO7cidgvX1RnOlOMe32TYHficD9Zdht67r1ezMB-UHzB8BTQxHDSwpJ4kE9JDXalUH8ofhBuygU3G1Xig_lA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66nDl7NBL2gBAAB_
+Set-Cookie: dwsid=D1Dg2U7OaltM62Q5BI62Pud5__drQC9GFmGAOakaGXgn7BQgYGFrs4Clo3y5L6bFzrh-mXP6YmQ64Kcjj8hq2g==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NrADy2VsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d5242993994fb-LIS

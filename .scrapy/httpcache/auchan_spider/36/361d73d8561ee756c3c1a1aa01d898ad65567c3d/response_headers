@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:39:25 GMT
+Date: Fri, 29 Aug 2025 11:55:33 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdc222a7ed92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=EuOp6zkC76dFiLuJGe8cfhvF0z_zcaCkrZA; Path=/; Secure; SameSite=None
+Set-Cookie: sid=mWiwd3f1SmE23kU7dGfb1wvAwK_aMyZ5UMg; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ab5BxRgTR1lbJgo7epKIfW2Qf8; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:39:25 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abl37JVP6com3nbFJxfaj8r4oV; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:55:31 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=GUza_MTkGPP6dd-BngpG4BBqoCgOl1fwEm24XgGmoBoHdFBwYaSUheaF6vGFC2cSKprwVzbkDngx3VTAeEXlBQ==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66nf7S1FL2gBAAB_
+Set-Cookie: dwsid=RLa5zYS9mvybjbN5XMixmdYeyRUpe_bk_ZsLpdKNOVVRn2QO0tw9pxA6h4GphP3_2nBn8PULhI8k1klGvq9cJg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqiEzOVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d67fc49a96932-LIS

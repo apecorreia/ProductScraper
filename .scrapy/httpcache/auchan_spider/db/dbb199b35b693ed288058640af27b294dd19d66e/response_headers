@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:40:11 GMT
+Date: Fri, 29 Aug 2025 11:56:11 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdd0bee57d92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=vJdNznuH7_3MN8R_cslCoGD7kzb4EipVUuk; Path=/; Secure; SameSite=None
+Set-Cookie: sid=OjSe-gu38JYAOJ8tAZjSO2A9H3IQV83hGXQ; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=ceE1J4qcMKsbNzwkiHrSLSXa5O; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:40:08 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abWKZDTKQAutFMLCo1rA2KnNa4; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:56:08 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=KVInVhBVJY7LQcR7h1EynvU--a6TwOAmVZ94puzt8q5Y8yEj9PXnn7RY1TRW-tClm99K4801ix4n9r0UnRG89g==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66ne_FhFL2gBAAB_
+Set-Cookie: dwsid=xGhc5hl0OVb843hj0MJckJ5h3W4ClAQh5a8n_fVapXjn5WsTcmshhhoTAatnCBPwvwNf0HtwQxEWzod39tBINg==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NqAKliVsWgBAAB_
 Content-Security-Policy: frame-ancestors 'self'
 Referrer-Policy: no-referrer
 X-Robots-Tag: noindex
@@ -25,4 +26,3 @@ Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d690b68716932-LIS

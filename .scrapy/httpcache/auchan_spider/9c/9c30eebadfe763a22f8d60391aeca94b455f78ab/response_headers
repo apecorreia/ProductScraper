@@ -1,17 +1,18 @@
 :Status: 200
-Date: Thu, 22 May 2025 15:40:01 GMT
+Date: Fri, 29 Aug 2025 11:56:16 GMT
 Content-Type: text/html;charset=UTF-8
+Cf-Ray: 976bdd2f38fcd92d-LIS
 Accept-Ranges: bytes
 Set-Cookie: sfcc_deliveryclickcollectstore=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: sid=tIEbfha5Bt0N-G599WeMA8JZrqAfcTFcHQI; Path=/; Secure; SameSite=None
+Set-Cookie: sid=6WNMF7n8ocADzn_UJY9Ykrq73xd6HpZFhq0; Path=/; Secure; SameSite=None
 Set-Cookie: sfcc_deliverypostalcode=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=bcfE8ylGr6pWD2RaMCOxqUCDlt; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Tue, 18 Nov 2025 15:40:01 GMT; Path=/; Secure; SameSite=None
+Set-Cookie: dwanonymous_eba3212b382ead3d8bd1f9008941ba80=abpgg5mux0LQqDZHTKWarWsIJT; Version=1; Comment="Demandware anonymous cookie for site Sites-AuchanPT-Site"; Max-Age=15552000; Expires=Wed, 25 Feb 2026 11:56:14 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __cq_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: dw_dnt=1; Path=/; Secure; SameSite=None
 Set-Cookie: __dc_env=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
 Set-Cookie: __dcact=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure; SameSite=None
-Set-Cookie: dwsid=-jrSkxSbSD5l67im0Lzkp4ziZ00dU3-_dRGo7Hb-Exrl16AZxcl3EY9ouVePD0KAFhksUzFhIzzNWLVZ5M0iHA==; path=/; HttpOnly; Secure; SameSite=None
-X-Dw-Request-Base-Id: 66n9-VFFL2gBAAB_
+Set-Cookie: dwsid=MpGOGycav44cJBpBMhqCCGFJHRvk-IgLmUeZgvTMzaOeyB798hT47XZ6lA1-314IxK2mB0cSYdwmbXjLCfiIRQ==; path=/; HttpOnly; Secure; SameSite=None
+X-Dw-Request-Base-Id: 3NoLLl6VsWgBAAB_
 Referrer-Policy: no-referrer
 Permissions-Policy: default 'none'
 Content-Security-Policy: frame-ancestors 'self'
@@ -23,6 +24,7 @@ Expires: Thu, 01 Dec 1994 16:00:00 GMT
 Vary: accept-encoding
 Content-Encoding: gzip
 Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/csp-reporting.cloudflare.com\/cdn-cgi\/script_monitor\/report?m=MHJ.agnxvaAYslqRkVHdNbbGy1jOnng1pdHqK9cg4CY-1756468576-1.0.1.1-CviWuP_lZ.lZTFARiA3yqhu.vdRhLgTZUhmAE_ANkbk2vSm0mkrg9oM.JhgjZGugv9z_FsnCL6pWbBrgpc6WMiwGk5RjB39Pq_xaZ5oqCm9Pra3cJxSJuJIIFw.saZ4Qt_fTlmUxt9g7z4BkqRqHReThhHH3lbGu7hnW.HIYZT9L2CTB_1HQINYc6IPOAjSG"}],"group":"cf-csp-endpoint","max_age":86400}
+Content-Security-Policy-Report-Only: script-src 'none'; connect-src 'none'; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=MHJ.agnxvaAYslqRkVHdNbbGy1jOnng1pdHqK9cg4CY-1756468576-1.0.1.1-CviWuP_lZ.lZTFARiA3yqhu.vdRhLgTZUhmAE_ANkbk2vSm0mkrg9oM.JhgjZGugv9z_FsnCL6pWbBrgpc6WMiwGk5RjB39Pq_xaZ5oqCm9Pra3cJxSJuJIIFw.saZ4Qt_fTlmUxt9g7z4BkqRqHReThhHH3lbGu7hnW.HIYZT9L2CTB_1HQINYc6IPOAjSG; report-to cf-csp-endpoint
 Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 Server: cloudflare
-Cf-Ray: 943d68dc2aed6932-LIS
